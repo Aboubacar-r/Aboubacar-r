@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aboubacar-r
 - 👀 I’m interested in development web
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Html, Css, JavaScript and Php
 - 💞️ I’m looking to collaborate on developer web
 - 📫 How to reach me +243859275857
 
